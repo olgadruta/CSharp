@@ -1,0 +1,11 @@
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\bin\Debug\netcoreapp2.2\Human.deps.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\bin\Debug\netcoreapp2.2\Human.runtimeconfig.dev.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\bin\Debug\netcoreapp2.2\Human.dll
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\bin\Debug\netcoreapp2.2\Human.pdb
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\obj\Debug\netcoreapp2.2\Human.csprojAssemblyReference.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\obj\Debug\netcoreapp2.2\Human.csproj.CoreCompileInputs.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfoInputs.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\obj\Debug\netcoreapp2.2\Human.AssemblyInfo.cs
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\obj\Debug\netcoreapp2.2\Human.dll
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Human\obj\Debug\netcoreapp2.2\Human.pdb

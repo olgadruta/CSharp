@@ -1,0 +1,11 @@
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\bin\Debug\netcoreapp2.2\DeckOfcards.deps.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\bin\Debug\netcoreapp2.2\DeckOfcards.runtimeconfig.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\bin\Debug\netcoreapp2.2\DeckOfcards.runtimeconfig.dev.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\bin\Debug\netcoreapp2.2\DeckOfcards.dll
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\bin\Debug\netcoreapp2.2\DeckOfcards.pdb
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\obj\Debug\netcoreapp2.2\DeckOfcards.csprojAssemblyReference.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\obj\Debug\netcoreapp2.2\DeckOfcards.csproj.CoreCompileInputs.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\obj\Debug\netcoreapp2.2\DeckOfcards.AssemblyInfoInputs.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\obj\Debug\netcoreapp2.2\DeckOfcards.AssemblyInfo.cs
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\obj\Debug\netcoreapp2.2\DeckOfcards.dll
+C:\Users\druta\Desktop\C#_stack\OOP_C#\DeckOfcards\obj\Debug\netcoreapp2.2\DeckOfcards.pdb

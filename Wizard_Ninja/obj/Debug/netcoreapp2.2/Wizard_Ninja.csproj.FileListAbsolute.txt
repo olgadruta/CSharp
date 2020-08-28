@@ -1,0 +1,11 @@
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\bin\Debug\netcoreapp2.2\Wizard_Ninja.deps.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\bin\Debug\netcoreapp2.2\Wizard_Ninja.runtimeconfig.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\bin\Debug\netcoreapp2.2\Wizard_Ninja.runtimeconfig.dev.json
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\bin\Debug\netcoreapp2.2\Wizard_Ninja.dll
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\bin\Debug\netcoreapp2.2\Wizard_Ninja.pdb
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\obj\Debug\netcoreapp2.2\Wizard_Ninja.csprojAssemblyReference.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\obj\Debug\netcoreapp2.2\Wizard_Ninja.csproj.CoreCompileInputs.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\obj\Debug\netcoreapp2.2\Wizard_Ninja.AssemblyInfoInputs.cache
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\obj\Debug\netcoreapp2.2\Wizard_Ninja.AssemblyInfo.cs
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\obj\Debug\netcoreapp2.2\Wizard_Ninja.dll
+C:\Users\druta\Desktop\C#_stack\OOP_C#\Wizard_Ninja\obj\Debug\netcoreapp2.2\Wizard_Ninja.pdb
